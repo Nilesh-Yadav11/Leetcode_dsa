@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
