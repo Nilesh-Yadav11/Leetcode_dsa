@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0035-search-insert-position) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
