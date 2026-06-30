@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0113-path-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
