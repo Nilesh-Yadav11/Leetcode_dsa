@@ -11,27 +11,12 @@
  */
 class Solution {
 public:
-    vector<vector<int>>result;
-    void fill(TreeNode*root,vector<int>temp){
-         if(root==NULL){
-            return;
-        }
-        temp.push_back(root->val);
-        if(root->left==NULL && root->right==NULL){
-            result.push_back(temp); // condition of when the leaf node occurs
-        }
-        fill(root->left,temp);
-        fill(root->right,temp);
-    }
     int maxDepth(TreeNode* root) {
-       vector<int>temp;
-       fill(root,temp);
-       
-       int maxsize=0;
-       for(auto &row:result){
-        maxsize=max(maxsize,(int)row.size());
-       }
+        
+        if(root==NULL){
+            return 0;
+        }
 
-       return maxsize;
+        return 1+(max(maxDepth(root->left),maxDepth(root->right)));
     }
 };
