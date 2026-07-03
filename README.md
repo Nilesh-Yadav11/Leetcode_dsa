@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
