@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 ## String
 |  |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
+| [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
+| [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2965-find-missing-and-repeated-values) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
