@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
