@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
