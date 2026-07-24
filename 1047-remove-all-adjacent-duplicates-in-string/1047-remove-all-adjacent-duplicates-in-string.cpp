@@ -14,7 +14,7 @@ public:
             }
         }
         while(!st.empty()){
-            unique=unique+st.top();
+            unique.push_back(st.top());
             st.pop();
         }
         reverse(unique.begin(),unique.end());
