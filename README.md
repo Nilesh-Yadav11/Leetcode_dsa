@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0035-search-insert-position) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0058-length-of-last-word) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
