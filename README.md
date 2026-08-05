@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1250-check-if-it-is-a-good-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0701-insert-into-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
