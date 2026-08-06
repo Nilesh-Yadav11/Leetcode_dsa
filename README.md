@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -301,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
