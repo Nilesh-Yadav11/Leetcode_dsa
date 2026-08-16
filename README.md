@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Math
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2697-lexicographically-smallest-palindrome) |
