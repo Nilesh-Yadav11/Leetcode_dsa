@@ -14,3 +14,20 @@ public:
     }
 };
 // kiya ye hai ki different numbers ka xor kroge toh 1 ayega result me vhi logic apply kr kr , dono ko add kiya hai aur 1 bits ko bs gin liya hai , count aa gya 
+
+// ye btayega fixed 31 ki jgh , jha tk 1 h vha tk btayega yeh 
+
+// class Solution {
+// public:
+//     int hammingDistance(int x, int y) {
+//         int ans = x ^ y;
+//         int count = 0;
+        
+//         while (ans > 0) {
+//             ans = ans & (ans - 1); // Turn off the rightmost set bit
+//             count++;
+//         }
+        
+//         return count;
+//     }
+// };
