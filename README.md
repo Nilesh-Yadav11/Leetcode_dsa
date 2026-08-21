@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1250-check-if-it-is-a-good-array) |
@@ -325,4 +326,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
