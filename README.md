@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0796-rotate-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
