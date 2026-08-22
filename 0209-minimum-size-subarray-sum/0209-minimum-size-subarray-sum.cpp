@@ -1,28 +1,27 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
-        int n = nums.size();
-        int ans = INT_MAX;
-        int sum = 0;
-        int left = 0;
+        
+        // varable size sliding window 
 
-        for (int right = 0; right < n; right++) {
-            sum += nums[right];
+        int n=nums.size();
+        int left=0;
+        int sum=0;
+        int ans=INT_MAX;
 
-            // Shrink the window from the left as long as the condition is met
-            while (sum >= target) {
-                ans = min(ans, right - left + 1);
-                sum -= nums[left];
+        for(int right=0;right<n;right++){
+            sum=sum+nums[right];
+
+            while(sum>=target){
+                ans=min(ans,right-left+1);
+
+                sum=sum-nums[left];
                 left++;
             }
         }
-
-        // If ans was never updated, no valid subarray was found, return 0
-        if(ans==INT_MAX){
+            if(ans==INT_MAX){ // in the case of like when nums is[1,1,1] , in this case the ans would be 0 , so the ans initially would not change to INT_MAX , so we would have to return 0 only 
             return 0;
-        }
-        else{
-            return ans;
-        }
+            }
+        return ans;
     }
 };
