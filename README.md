@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0020-valid-parentheses) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0567-permutation-in-string) |
