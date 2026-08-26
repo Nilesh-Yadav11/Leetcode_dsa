@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1250-check-if-it-is-a-good-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1250-check-if-it-is-a-good-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2235-add-two-integers) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2965-find-missing-and-repeated-values) |
