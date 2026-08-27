@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1922-count-good-numbers](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2235-add-two-integers) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2965-find-missing-and-repeated-values) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
