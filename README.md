@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Counting Sort
 |  |
 | ------- |
