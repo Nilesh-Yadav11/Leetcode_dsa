@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0669-trim-a-binary-search-tree) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0669-trim-a-binary-search-tree) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0669-trim-a-binary-search-tree) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0783-minimum-distance-between-bst-nodes) |
