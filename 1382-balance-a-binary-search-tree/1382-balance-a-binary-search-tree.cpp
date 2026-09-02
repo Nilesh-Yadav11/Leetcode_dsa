@@ -22,7 +22,7 @@ public:
         inorder(root->right);
     }
 
-    TreeNode* inorder_to_bst(vector<TreeNode*>nums,int left,int right){
+    TreeNode* inorder_to_bst(vector<TreeNode*> &nums,int left,int right){
         if(left>right){
             return NULL;
         }
