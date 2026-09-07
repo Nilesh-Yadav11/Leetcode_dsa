@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0173-binary-search-tree-iterator) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
