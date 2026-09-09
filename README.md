@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2235-add-two-integers) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
