@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0136-single-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0101-symmetric-tree) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/2965-find-missing-and-repeated-values) |
