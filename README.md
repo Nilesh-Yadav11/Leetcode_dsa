@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -455,4 +458,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0239-sliding-window-maximum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
