@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -474,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0164-maximum-gap) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
