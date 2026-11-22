@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0189-rotate-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0222-count-complete-tree-nodes) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0832-flipping-an-image) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
