@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Nilesh-Yadav11/Leetcode_dsa/tree/master/0119-pascals-triangle-ii) |
